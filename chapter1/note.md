@@ -1,4 +1,4 @@
-# OpenAI API 入門
+# Chapter1. OpenAI API 入門
 
 ## 為什麼不直接使用，而要串接 OpenAI API ?
 
