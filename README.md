@@ -14,22 +14,8 @@
 
 ## Table of Contents
 
-| Chapter | Chapter Title                                    |
-|------|----------------------------------------------|
-| 1      | OpenAI API 入門                                |
-| 2      | 使用 Python 呼叫 API                           |
-| 3      | API 參數解析與錯誤處理                         |
-| 4      | 打造自己的 ChatGPT                             |
-| 5      | 突破時空限制 – 整合搜尋功能                    |
-| 6      | 讓 AI 幫 AI – 自動串接流程                    |
-| 7      | 網頁版聊天程式與文字生圖 Image API            |
-| 8      | 設計 LINE AI 聊天機器人                       |
-| 9      | 自媒體業者必看！使用 AI 自動生成高品質字幕    |
-| 10     | 把 AI 帶到 Discord                            |
-| 11     | AI 客製化投資理財應用實戰                    |
-| 12     | 用 LangChain 實作新書宣傳自動小編             |
-| 13     | 用 Embeddings 實作台灣旅遊客服機器人          |
-| 14     | ChatGPT Plugin 開發                           |
+[Chapter1. OpenAI API 入門](https://hackmd.io/@U3f2IzHERbymAst2-lDdjA/S1cNMYi6T)
+[Chapter2. 使用 Python 呼叫 API](https://hackmd.io/@U3f2IzHERbymAst2-lDdjA/HyZBg5ia6)
 
 ## Contact Information
 
