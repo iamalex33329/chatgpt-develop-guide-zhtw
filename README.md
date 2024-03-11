@@ -15,7 +15,10 @@
 ## Table of Contents
 
 [Chapter1. OpenAI API 入門](https://hackmd.io/@U3f2IzHERbymAst2-lDdjA/S1cNMYi6T)
+
 [Chapter2. 使用 Python 呼叫 API](https://hackmd.io/@U3f2IzHERbymAst2-lDdjA/HyZBg5ia6)
+
+[Chapter3. API 參數解析與錯誤處理](https://hackmd.io/@U3f2IzHERbymAst2-lDdjA/BJWNtsh6p)
 
 ## Contact Information
 
