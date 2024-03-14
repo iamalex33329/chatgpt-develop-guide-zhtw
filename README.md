@@ -24,6 +24,8 @@
 
 [Chapter5. 突破時空限制 - 整合搜尋功能](https://hackmd.io/@112356044/HkbVM-ApT)
 
+[Chapter6. 讓 AI 幫 AI - 自動串接流程](https://hackmd.io/@112356044/r1Ke-GR6T)
+
 ## Contact Information
 
 If you have any questions or suggestions, feel free to contact me via:
