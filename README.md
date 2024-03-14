@@ -28,6 +28,8 @@
 
 [Chapter7. 網頁版聊天程式與文字生圖 Image API](https://hackmd.io/@112356044/Hyf-AvgAT)
 
+
+
 ## Contact Information
 
 If you have any questions or suggestions, feel free to contact me via:
