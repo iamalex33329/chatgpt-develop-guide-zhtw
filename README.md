@@ -28,7 +28,9 @@
 
 [Chapter7. 網頁版聊天程式與文字生圖 Image API](https://hackmd.io/@112356044/Hyf-AvgAT)
 
+[Chapter8. 設計 LINE AI 聊天機器人](https://hackmd.io/@112356044/r1d6HsgAa)
 
+[Chapter9. 自媒體業者必看！使用 AI 自動生成高品質字幕](https://hackmd.io/@112356044/rJ2T37V0T)
 
 ## Contact Information
 
