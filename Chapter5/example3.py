@@ -1,5 +1,5 @@
 import requests
-import apikey
+import ApiKey
 
 r = requests.get(
     'https://www.googleapis.com/customsearch/v1?' \
@@ -7,8 +7,8 @@ r = requests.get(
     'cx={}&' \
     'num={}&' \
     'q={}'.format(
-        apikey.CUSTOM_SEARCH_JSON_API,
-        apikey.SEARCH_ENGINE_ID,
+        ApiKey.CUSTOM_SEARCH_JSON_API,
+        ApiKey.SEARCH_ENGINE_ID,
         5,
         '2024 President in Taiwan'
     )

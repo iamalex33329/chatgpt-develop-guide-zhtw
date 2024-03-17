@@ -2,10 +2,10 @@ from googlesearch import search
 
 import discord
 import openai
-import apikey
+import ApiKey
 import re
 
-openai.api_key = apikey.OPENAI_API_KEY
+openai.api_key = ApiKey.OPENAI_API_KEY
 
 hist = []
 backtrace = 2
@@ -61,7 +61,7 @@ def check_tool(prompt, msg):
     return reply == "Y"
 
 
-token = apikey.DISCORD_BOT_TOKEN
+token = ApiKey.DISCORD_BOT_TOKEN
 
 intents = discord.Intents.default()
 intents.message_content = True

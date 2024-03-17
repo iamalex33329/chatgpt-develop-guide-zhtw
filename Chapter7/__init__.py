@@ -5,9 +5,9 @@ from googlesearch import search
 __all__ = ['func_table', 'get_reply', 'chat',
            'set_backtrace', 'empty_history', 'set_verify_depth']
 
-import apikey
+import ApiKey
 
-openai.api_key = apikey.OPENAI_API_KEY
+openai.api_key = ApiKey.OPENAI_API_KEY
 
 
 def _google_res(user_msg, num_results=5, verbose=False):

@@ -6,10 +6,10 @@ from discord import app_commands
 from discord.ext import commands
 
 import discord
-import apikey
+import ApiKey
 
 
-token = apikey.DISCORD_BOT_TOKEN
+token = ApiKey.DISCORD_BOT_TOKEN
 
 intents = discord.Intents.default()  # 取得預設的 intent
 intents.message_content = True  # 啟用訊息內容

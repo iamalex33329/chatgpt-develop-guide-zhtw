@@ -1,7 +1,7 @@
 import openai
-import apikey
+import ApiKey
 
-openai.api_key = apikey.OPENAI_API_KEY
+openai.api_key = ApiKey.OPENAI_API_KEY
 
 hist = []       # 歷史對話紀錄
 backtrace = 3   # 記錄幾組對話

@@ -4,10 +4,10 @@ from Chapter11.my_commands.stock_value import stock_value
 from Chapter11.my_commands.stock_news import stock_search
 
 import openai
-import apikey
+import ApiKey
 
 
-openai.api_key = apikey.OPENAI_API_KEY
+openai.api_key = ApiKey.OPENAI_API_KEY
 
 
 def get_reply(messages):

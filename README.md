@@ -36,6 +36,8 @@
 
 [Chapter11. AI 客製化投資理財應用實戰](https://hackmd.io/@112356044/HkUE0rER6)
 
+[Chapter12. 用 LangChain 實作新書宣傳自動小編](https://hackmd.io/@112356044/SybvbdN0p)
+
 ## Contact Information
 
 If you have any questions or suggestions, feel free to contact me via:

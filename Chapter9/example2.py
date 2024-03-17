@@ -3,10 +3,10 @@ from pytube.exceptions import RegexMatchError, VideoUnavailable
 from os import path
 
 import openai
-import apikey
+import ApiKey
 
 
-openai.api_key = apikey.OPENAI_API_KEY
+openai.api_key = ApiKey.OPENAI_API_KEY
 
 
 def find_best_stream(url, is_audio=True):

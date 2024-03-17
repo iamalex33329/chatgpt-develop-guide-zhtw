@@ -1,10 +1,10 @@
 from googlesearch import search
 
 import openai
-import apikey
+import ApiKey
 import json
 
-openai.api_key = apikey.OPENAI_API_KEY
+openai.api_key = ApiKey.OPENAI_API_KEY
 
 
 def google_res(user_msg, num_results=5, verbose=False):
