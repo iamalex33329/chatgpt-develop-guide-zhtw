@@ -32,6 +32,8 @@
 
 [Chapter9. 自媒體業者必看！使用 AI 自動生成高品質字幕](https://hackmd.io/@112356044/rJ2T37V0T)
 
+[Chapter10. 把 AI 帶到 Discord](https://hackmd.io/@112356044/Sy_L-B40T)
+
 ## Contact Information
 
 If you have any questions or suggestions, feel free to contact me via:
