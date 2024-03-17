@@ -34,6 +34,8 @@
 
 [Chapter10. 把 AI 帶到 Discord](https://hackmd.io/@112356044/Sy_L-B40T)
 
+[Chapter11. AI 客製化投資理財應用實戰](https://hackmd.io/@112356044/HkUE0rER6)
+
 ## Contact Information
 
 If you have any questions or suggestions, feel free to contact me via:
